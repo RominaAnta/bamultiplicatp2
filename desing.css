@@ -1,9 +1,42 @@
-h1 (colgroup)
+body { 
+    background-color: rgba(86, 217, 219, 0.87);
+    color:rgb(127, 58, 141);
+}
 
+h1 { 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 350%;
+}
 
+article {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 1%;
+    color: black;
+}
 
+img {
+    margin-left: 70%;
+}
 
+figcaption {
+    margin-left: 70%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
+hr { 
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    border: solid 3px rgb(147, 20, 139);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
+ol { 
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 
